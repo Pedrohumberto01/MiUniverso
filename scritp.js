@@ -1,7 +1,6 @@
 function createStar() {
     const container = document.querySelector('body');
     
-    // Estrellas normales
     for (let i = 0; i < 1000; i++) {
         const star = document.createElement('div');
         star.className = 'star';
