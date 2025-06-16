@@ -11,8 +11,8 @@ function createStar() {
         container.appendChild(star);
     }
     
-    const messages = ["❤️ Te adoro", "💞 Eres única", "🌠 Mi estrella", "💫 Para ti todo", "💥 Tus ojos", 
-        "🌟 Mi universo", "🔥 Eres mi sol", "🌌 Mi mundo", "🤍 Me encantas"
+    const messages = ["❤️ Te adoro", "💞 Eres única", "🌠 Mi fotógrafa", "💫 Para ti todo", "💥 Tus ojos", 
+        "🌟 Mi universo", "🔥 Mi cantante favorita", "💕 Mi niña", "🤍 Me encantas"
     ];
     setInterval(() => {
         const shootingStar = document.createElement('div');
